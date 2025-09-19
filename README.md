@@ -8,5 +8,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `Eloise Fng` | `chenan1` |
+| `Eloise Fang`| `chenan1` |
 | `<Add more>` | `<CCID>`  |
